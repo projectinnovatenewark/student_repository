@@ -45,8 +45,7 @@ transactions_data = [
 # TODO: print out each transaction in a string indicating:
 # TODO: "You spent $ X at X with your X account"
 
-def transactify():
-    print(transactions_data)
+def transactify(data):
+    """this function should complete the above tasks"""
 
-
-transactify()
+transactify(transactions_data)
