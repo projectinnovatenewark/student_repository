@@ -8,11 +8,6 @@ Using helper functions
 # Definition: A prime number is a whole number greater than 1 whose only factors are 1 and
 # itself. A factor is a whole number that can be divided evenly into another number.
 
-# TODO: define a function that will take in a list of numbers as an argument. this function
-# TODO: should iterate through each number in the list and return/print whether each
-# TODO: number is prime. It should determine whether the number is even
-# TODO: or odd as well.
-
 num_list = [12, 15, 22, 13, 17, 11]
 
 # TODO: Define a helper function called "isPrime" and pass it an argument of "num".
@@ -25,7 +20,7 @@ num_list = [12, 15, 22, 13, 17, 11]
 # TODO: If this function returns false, you should indicate in the "main" function
 # TODO: that the number is odd.
 
-# TODO: Finally, define a function called "main" that accepts an argument "listy". listy will be
-# TODO: a list of numbers. It should iterate through these numbers and call the above functions
+# TODO: Finally, define a function called "main" that defines a parameter "listy". The argument passed
+# TODO: will be a list of numbers. It should iterate through these numbers and call the above functions
 # TODO: and produce an output for each, formatted as "Number ___ is (even or odd) and (prime or
-# TODO: not prime)." Pass this function the "num_list" argument.
+# TODO: not prime)." Pass this function the "num_list" argument defined at the top of this file.
