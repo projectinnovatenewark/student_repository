@@ -1,5 +1,5 @@
 """
-Task- variables and types
+Task- variables and types. 
 """
 
 # TODO: Set a variable called name equal to your name, then set a variable of age
