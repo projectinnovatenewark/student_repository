@@ -17,8 +17,8 @@ Creating classes for your classmates
 
 
 # TODO: Set up a child class that derives from the Employee class and add the attribute 'h_benefits'.
-# TODO: Define a function 'intro' to print: 
-# TODO: "Hi, my name is Garrett Palmeri. I am 24 years old, a Financial Analyst that makes $40000 per year. 
+# TODO: Define a function 'intro' to print:
+# TODO: "Hi, my name is Garrett Palmeri. I am 24 year old Financial Analyst that makes $40000 per year.
 # TODO: I do not have insurance."
 
 
