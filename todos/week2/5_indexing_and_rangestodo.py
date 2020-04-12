@@ -22,6 +22,6 @@ TEMPERATURE_FORECAST = {
 
 # TODO: create a for loop that prints out each day of the week with the temperature
 
-# TODO:iterate through the following grades and print the student's number along with the score
+# TODO: iterate through the following grades and print the student's number along with the score
 # TODO: i.e. "Student number 1 got a score of 75"
 GRADES = [75, 88, 92, 83, 97]

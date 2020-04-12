@@ -1,5 +1,6 @@
 """
-Task- variables and types. 
+Task- variables and types
+Reference(s): week_2/2_variables_and_types.py
 """
 
 # TODO: Set a variable called name equal to your name, then set a variable of age
