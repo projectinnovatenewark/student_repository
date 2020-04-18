@@ -1,18 +1,27 @@
 """
-Lets do a basic math problem
+Lets calculate a company's taxes, profit, and then divide the profit amongst shareholders.
 Referenced lesson(s): week_1/4_basic_math.py
 """
 
-# TODO: perform all of the following mathematical operations and print the results in between
+# TODO: Set a constant of `TAX_RATE` equal to .20 (we will use this as twenty percent).
 
-# TODO: set a constant tax rate of 20%
+# TODO: Receive a user input for the question "What is your company's name?". Set
+# TODO: the input equal to a variable called `company`
 
-# TODO: ask a user what their revenue was for the quarter
+# TODO: Receive a user input for the question "What was your revenue for this year?". Set
+# TODO: the input equal to a variable called `revenue`
 
-# TODO: deduct the tax rate from the revenue and print the profit as well as the tax amount
+# TODO: Set a variable equal to `taxes_paid`. Calculate the taxes by multipling the rate (20%)
+# TODO: from your previous variable by the revenue input from the user.
 
-# TODO: split that profit evenly amongst 7 share holders
+# TODO: Set a new variable called `profit`. Calculate the revenue minus the taxes paid and set it
+# TODO: equal to this variable.
 
-# TODO: print out what each shareholder will receive from the profit
+# TODO: Set a variable of `shareholder_payout`equal to the profit divided by 5.
 
-# !! extra credit: print the remainder of the total profit divided by 6
+# TODO: Print an output indicating "Company ____ recorded ______ dollars in revenue this year,
+# TODO: paid ____dollars in taxes, recorded a profit of ______ dollars, and paid _____ dollars
+# TODO: to their five shareholders, evenly".
+
+# ! extra credit: print the remainder of the total profit divided by five using the modulo operator.
+# ! The output should read "The remainder of the profit divided by 5 would be _____"
