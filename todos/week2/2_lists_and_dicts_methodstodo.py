@@ -30,6 +30,9 @@ my_car = {"make": "Tesla", "model": "Cybertruck", "year": "2022"}
 # TODO: Use the .pop() method to remove the "year" key/value pair from the my_car dict. Set it equal
 # TODO: to a variable called `year`. Print the `year` variable and print the `my_car` dictionary.
 
+# TODO: Now add back "year": "2022" to the my_car dictionary, 
+# TODO: becuase we'll be using it for the end of the problem.
+
 # Combining concepts
 
 # TODO: Append a string "year" to the sweet_foods list. Set a variable equal to the last item in the newly
