@@ -19,3 +19,6 @@ Referenced lesson(s): week_3/3_file_handling.py
 # TODO: Reminder: the format is `firstname (tab) lastname (tab) department (tab) salary (tab)`
 
 # TODO: Print the newly modified text file as a whole, instead of line by line.
+
+# TODO: Once your operations are complete, make sure to use the "close" function to complete
+# TODO: the todo.

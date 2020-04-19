@@ -1,17 +1,19 @@
 """
 Match up with a partner. One person should solve the 1st problem, the other should solve the 2nd.
 You will then break your working code in minor ways and exchange the broken solutions. The other
-person will have to fix your broken code.
+person will have to fix your broken code. You can break your code in minor ways like removing colons
+or completely switch up the function. Its up to you!
 """
 
 # TODO: Problem 1:
 # Write a function called multiplier. it should accept two arguments. The first arg, "l", should be
 # a list of numbers. The second arg, "m", should be a number. In the function, set a new variable
-# equal to an empty list, titled "new_list". Then, iterate through the list of numbers, multiply
-# each number by the multiplier, and append that number to the new list.
+# equal to an empty list, titled "new_list". Then, iterate through the list of numbers parameter, multiply
+# each number by the multiplier parameter, and append that number to the new list.
 
-# Once you complete the above loop, print out the original list followed by the new list.
-# Call this function for both the first and second sets of multipliers and lists.
+# Once you complete the above loop, print out the original list followed by the new list inside the function.
+# Call this function for both the first and second sets of multipliers and lists, which is done for you below
+# the function definition.
 
 multiplier_one = 3
 num_data_one = [15, 12, 22, 8, 4]
