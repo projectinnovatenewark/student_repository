@@ -32,8 +32,8 @@ my_car = {"make": "Tesla", "model": "Cybertruck", "year": "2022"}
 
 # Combining concepts
 
-# TODO: Append a string "year" to the sweet_foods list. Set a variable equal to the last item in the newly
-# TODO: updated list ( i.e. year_item = sweet_foods[4] ). Then, since the new variable will be equal
-# TODO: to a string of "year", you can use that variable to find the value of the key/value pair in the
+# TODO: Append a string "make" to the sweet_foods list. Set a variable equal to the last item in the newly
+# TODO: updated list ( i.e. make_item = sweet_foods[4] ). Then, since the new variable will be equal
+# TODO: to a string of "make", you can use that variable to find the value of the key/value pair in the
 # TODO: my_car dictionary. Print out the output of using this variable to access that value
-# TODO: ex: print(my_car[year_item])
+# TODO: ex: print(my_car[make_item])
