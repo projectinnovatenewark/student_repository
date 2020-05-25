@@ -2,7 +2,7 @@
 Using methods on lists and dictionaries
 """
 
-# Lets start with list methods
+# Section 1. List Methods
 
 sweet_foods = ["ice cream", "skittles", "broccoli", "strawberries", "oreos", "asparagus"]
 
@@ -17,7 +17,9 @@ sweet_foods = ["ice cream", "skittles", "broccoli", "strawberries", "oreos", "as
 
 # TODO: Print the sweet_foods list. Your output should be: ['skittles', 'strawberries', 'oreos', 'ice cream']
 
-# Now onto dictionary methods
+# TODO: #########################################################################################
+
+# Section 2. Dictionary Methods.
 
 my_car = {"make": "Tesla", "model": "Cybertruck", "year": "2022"}
 
@@ -30,7 +32,9 @@ my_car = {"make": "Tesla", "model": "Cybertruck", "year": "2022"}
 # TODO: Use the .pop() method to remove the "year" key/value pair from the my_car dict. Set it equal
 # TODO: to a variable called `year`. Print the `year` variable and print the `my_car` dictionary.
 
-# Combining concepts
+# TODO: #########################################################################################
+
+# Section 3. Combining list/dict Methods
 
 # TODO: Append a string "make" to the sweet_foods list. Set a variable equal to the last item in the newly
 # TODO: updated list ( i.e. make_item = sweet_foods[4] ). Then, since the new variable will be equal

@@ -3,7 +3,9 @@ Working with lists and dictionaries to convey a weather forecast
 Reference lesson(s): week_2/1_lists_and_dicts.py
 """
 
-# TODO: Create a list with days from Monday through Sunday
+# TODO: #########################################################################################
+
+# Section 2. Combining concepts of lists and dictionaries
 DAYS_OF_WEEK = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
 # TODO: In the following dictionary, the keys are associated with days of the week while

@@ -4,7 +4,6 @@ and calculate the taxes owed
 """
 
 # TODO: Import the annual_interest and tax_rate constants
-from interest import ANNUAL_INTEREST, TAX_RATE
 
 # TODO: Ask a user how much they would like to invest with an input. Set it equal to a variable
 # TODO: named `investment`.
