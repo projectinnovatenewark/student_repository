@@ -9,7 +9,6 @@ confirmed_users = []
 # TODO: users into the confirmed users list by using a while loop. Remember,
 # TODO: while loops will run for a list as long as there are items in it.
 
-while unconfirmed_users:
 
 ##################################################################################################
 

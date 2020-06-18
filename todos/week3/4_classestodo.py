@@ -1,12 +1,14 @@
 """
 Creating classes for your classmates
 """
-
+# TODO: #############################################################################
+# TODO: Section 1:
 # TODO: Create a class for an Employee, and include basic data
 # TODO: like hours worked, salary, first name, last name, age, and title
 
 
-
+# TODO: ##############################################################################
+# TODO: Section 2:
 # TODO: Create a function inside the class and print out a formatted
 # TODO: set of strings explaining the details from the employee. Use the f shorthand
 # TODO: for formatting that was used in the previous example.
@@ -15,14 +17,16 @@ Creating classes for your classmates
 # TODO: of Employee set equal to a variable employeeOne
 
 
-
+# TODO: ###########################################################################################
+# TODO: Section 3:
 # TODO: Set up a child class that derives from the Employee class and add the attribute 'h_benefits'.
 # TODO: Define a function 'intro' to print:
 # TODO: "Hi, my name is Garrett Palmeri. I am 24 year old Financial Analyst that makes $40000 per year.
 # TODO: I do not have insurance."
 
 
-
+# TODO: ############################################################################################
+# TODO: Section 4
 # TODO: Create a class named 'Animal' with the attributes no_of_legs, weight, height 
 
 
