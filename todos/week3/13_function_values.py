@@ -1,8 +1,8 @@
 """
-Using helper functions
+Solve the below using helper functions
 """
 
-# Context: solving all of the problems below in one function would be kind of weird and not produce
+# Context: Solving all of the problems below in one function would be kind of weird and not produce
 # the prettiest code. You should break the function up into smaller, "helper" functions.
 
 # Definitions for support: A prime number is a whole number greater than 1 whose only factors are 1 and
