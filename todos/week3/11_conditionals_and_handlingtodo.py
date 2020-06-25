@@ -1,5 +1,5 @@
 """
-Actions you can perform on lists and dictionaries
+Conditions and while loops
 """
 
 # TODO: Section 1
@@ -49,4 +49,4 @@ confirmed_users = []
 
 # TODO: Use the enumerate function to iterate through the confirmed_users list. The output for
 # TODO: each user should read "User number [x]'s name is [name]." X should start with 1 for the
-# TODO: first user and iterate up by one, and the name represents the user's name.
+# TODO: first user and iterate up by one, and the name represents the user's name. 
