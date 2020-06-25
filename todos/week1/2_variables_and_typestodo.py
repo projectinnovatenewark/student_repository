@@ -43,6 +43,14 @@ Reference(s): week_2/2_variables_and_types.py
 # TODO: str() function as such: str(age). The print statement will no longer throw an
 # TODO: error 🎯 since age was converted to a string.
 
+
+# TODO: Section 4:
+# TODO: Try the first step instructed of using plus signs to concatenate strings to print
+# TODO: `My name is _____ and I am ______ years old.` using the name and age variables.
+# TODO: However, this time when you're concatenating the age variable, convert it to a
+# TODO: string. The print statement will no longer throw an error and the concatenation
+# TODO: will work since age was converted to a string.
+
 # Lesson Learned:
 # We can change types in Python when appropriate, and we learned one way to do so with str()
 
