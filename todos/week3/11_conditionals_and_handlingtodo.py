@@ -28,11 +28,6 @@ confirmed_users = []
 ##################################################################################################
 # Section 2.
 
-<<<<<<< HEAD
-# TODO: display all the confirmed users with a for loop
-# TODO: lets use list comprehension (reference from week 2, lesson 2) and create a new
-# TODO: list with every name capitalized from `confirmed users`
-=======
 # TODO: Display all the confirmed users with a for loop. Each user statement should output
 # TODO: "[user_name] has been confirmed".
 
@@ -40,16 +35,10 @@ confirmed_users = []
 
 # TODO: Lets use list comprehension and create a new list with every name capitalized
 # TODO: from `confirmed_users` called `upper_users`.
->>>>>>> d16cf57e5254434cdb4d1d14db782e86ceb6b674
 
 ##################################################################################################
 # Section 3.
 
-<<<<<<< HEAD
-# TODO: instead of using the pop method, let's setup a while loop that uses the length of the new list
-# TODO: of confirmed users to iterate through the names. In each name, we will want to add "confirmed",
-# TODO: before each name in the string.
-=======
 # TODO: Let's implement a while loop, instead of a for loop, that uses the length of the
 # TODO: new list of `upper_users` to iterate through the names. For each iteration, we want the
 # TODO: output to be formatted as "confirmed [user]".
@@ -65,4 +54,3 @@ confirmed_users = []
 # TODO: Use the enumerate function to iterate through the confirmed_users list. The output for
 # TODO: each user should read "User number [x]'s name is [name]." X should start with 1 for the
 # TODO: first user and iterate up by one, and the name represents the user's name. 
->>>>>>> d16cf57e5254434cdb4d1d14db782e86ceb6b674
