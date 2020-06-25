@@ -4,9 +4,9 @@ Working with for loops in dictionaries and lists
 
 # Hint! Remember that None is basically setting something as an undefined value. This is helpful when
 # you intend on being specific about the scope of a variable and wanting to populate it later
-
-# TODO: create a series of for loops that prints out each day of the week with the high and low of each day
-# TODO: in this problem, the high and low of each period of the day is set in the array in the key value pair
+# TODO: Create a series of for loops that prints out each day of the week with the 
+# TODO: high and low of each day in this problem, the high and low of 
+# TODO: each period of the day is set in the array in the key value pair
 
 ADVANCED_FORECAST = {
     "Sunday": {"morning": [40, 55], "afternoon": [57, 64], "evening": [59, 43]},
