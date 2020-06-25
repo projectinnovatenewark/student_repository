@@ -16,6 +16,8 @@ Conditions and while loops
 unconfirmed_users = ['alice', 'brian', 'candace', 'alshon']
 confirmed_users = []
 
+##################################################################################################
+
 # TODO: "Verify" each user by removing them one-by-one and move "verified"
 # TODO: users into the confirmed users list by using a while loop. Remember,
 # TODO: while loops will run for a list as long as there are items in it.
@@ -24,6 +26,7 @@ confirmed_users = []
 # while unconfirmed_users:
 
 ##################################################################################################
+# Section 2.
 
 # TODO: Display all the confirmed users with a for loop. Each user statement should output
 # TODO: "[user_name] has been confirmed".
@@ -34,6 +37,7 @@ confirmed_users = []
 # TODO: from `confirmed_users` called `upper_users`.
 
 ##################################################################################################
+# Section 3.
 
 # TODO: Let's implement a while loop, instead of a for loop, that uses the length of the
 # TODO: new list of `upper_users` to iterate through the names. For each iteration, we want the
