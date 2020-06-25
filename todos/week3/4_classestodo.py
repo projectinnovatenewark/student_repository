@@ -6,7 +6,6 @@ Creating classes for your classmates
 # TODO: like hours worked, salary, first name, last name, age, and title
 
 
-
 # TODO: Create a function inside the class and print out a formatted
 # TODO: set of strings explaining the details from the employee. Use the f shorthand
 # TODO: for formatting that was used in the previous example.
