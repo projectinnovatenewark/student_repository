@@ -2,7 +2,6 @@
 Task- variables and types
 Reference(s): week_2/2_variables_and_types.py
 """
-# TODO: #########################################################################################
 # Section 1:
 # TODO: Set a variable called name equal to your name, then set a variable of age
 # TODO: equal to your age as an integer. Print a statement with an output of
