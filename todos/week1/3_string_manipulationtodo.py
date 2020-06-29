@@ -2,6 +2,7 @@
 Personality questionnaire
 Referenced lesson(s): week_1/2_variables_and_types.py && week_1/3_string_manipulation.py
 """
+
 # Section 1:
 
 # TODO: Ask a user to input their full name and set it equal to a variable of `full_name`.
