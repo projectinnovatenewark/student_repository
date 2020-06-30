@@ -4,7 +4,6 @@ Referenced lesson(s): week_1/4_basic_math.py
 """
 
 # TODO: Section 1:
-
 # TODO: Set a constant of `TAX_RATE` equal to .20 (we will use this as twenty percent).
 
 # TODO: Receive a user input for the question "What is your company's name?". Set
@@ -31,7 +30,6 @@ Referenced lesson(s): week_1/4_basic_math.py
 # TODO: ###########################################################################################
 
 # TODO: Section 2:
-
 num_list = [35, 4, 20, 100, 96]
 
 # TODO: Print the minimum of 'num_list' using min()
