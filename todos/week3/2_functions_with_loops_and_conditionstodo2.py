@@ -47,5 +47,9 @@ transactions_data = [
 
 def transactify(data):
     """this function should complete the above tasks"""
+    for transaction in transactions_data:
+        cost = transaction["amount"]
+        if int(cost) > 100:
+            print(cost)
 
 transactify(transactions_data)
