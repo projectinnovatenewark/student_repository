@@ -73,3 +73,4 @@ TEMPERATURE_FORECAST = {
 for day in TEMPERATURE_FORECAST:
     temp = TEMPERATURE_FORECAST[day]
     print("The temperature for", day, "is", temp, "degrees.")
+
