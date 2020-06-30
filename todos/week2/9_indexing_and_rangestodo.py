@@ -4,9 +4,6 @@ Working with for loops in dictionaries and lists
 
 # TODO: Section 1:
 # TODO: Print numbers 5 through 10. Print each number using a basic for loop.
-for num in range(5,11):
-    print(num)
-print("\n")
 
 # TODO:#############################################################################################
 
@@ -18,11 +15,6 @@ print("\n")
 
 grades = [60, 73, 80, 87]
 
-for grade in grades:
-    cg = grade + 3
-    print(cg)
-print("\n")
-
 # TODO:#############################################################################################
 
 # TODO: Section 3:
@@ -32,11 +24,6 @@ print("\n")
 todos = ["exercise for fun", "eat food", "go to school", "write some code"]
 removed_todo = []
 
-while todos:
-    current_todo = todos.pop()
-    print("I don't want to " + current_todo, "anymore!")
-    print("\n")
-
 # TODO:#############################################################################################
 
 # TODO: Section 4:
@@ -44,10 +31,6 @@ while todos:
 # TODO: it is decremented. Once the number reaches two, end the while loop.
 
 var = 7
-while var > 1:
-    var -= 1
-    print(var)
-print("\n")
 
 # TODO:#############################################################################################
 
@@ -69,8 +52,3 @@ TEMPERATURE_FORECAST = {
     "Friday": 95,
     "Saturday": 100
 }
-
-for day in TEMPERATURE_FORECAST:
-    temp = TEMPERATURE_FORECAST[day]
-    print("The temperature for", day, "is", temp, "degrees.")
-
