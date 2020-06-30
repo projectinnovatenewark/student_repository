@@ -15,6 +15,7 @@ Reference(s): week_2/2_variables_and_types.py
 # separate elements rather than attempting to concatenate strings.
 
 # TODO: #########################################################################################
+
 # Section 2:
 # TODO: Let's use commas to print our desired output instead. Refer to the output
 # TODO: above of `My name is _____ and I am ______ years old.`
@@ -27,6 +28,7 @@ Reference(s): week_2/2_variables_and_types.py
 # You can see that adding a float to an integer makes the result a float!
 
 # TODO: #########################################################################################
+
 # Section 3:
 # TODO: Set a variable equal to each of the types we have learned so far. That includes
 # TODO: integers, floats, booleans, None, and strings. So, have one variable per each
@@ -41,6 +43,7 @@ Reference(s): week_2/2_variables_and_types.py
 # function name can be used for different types. BIG. WORDS. GET. YOU. JOBS. 💰
 
 # TODO: #########################################################################################
+
 # Section 4:
 # TODO: Lastly, we will introduce type conversion. There are functions you can use to
 # TODO: convert things in Python. The first we will use is str(). Try the first
