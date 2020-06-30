@@ -18,8 +18,14 @@ sweet_foods = ["ice cream", "skittles", "broccoli", "strawberries", "oreos", "as
 # TODO: Print the sweet_foods list. Your output should be: ['skittles', 'strawberries', 'oreos', 'ice cream']
 
 # TODO: #########################################################################################
+# Section 2. Slicing
 
-# Section 2. Dictionary Methods.
+# TODO: #########################################################################################
+# Section 3. List comprehension
+
+# TODO: #########################################################################################
+
+# Section 4. Dictionary Methods.
 
 my_car = {"make": "Tesla", "model": "Cybertruck", "year": "2022"}
 
@@ -34,7 +40,7 @@ my_car = {"make": "Tesla", "model": "Cybertruck", "year": "2022"}
 
 # TODO: #########################################################################################
 
-# Section 3. Combining list/dict Methods
+# Section 5. Combining list/dict Methods
 
 # TODO: Append a string "make" to the sweet_foods list. Set a variable equal to the last item in the newly
 # TODO: updated list ( i.e. make_item = sweet_foods[4] ). Then, since the new variable will be equal

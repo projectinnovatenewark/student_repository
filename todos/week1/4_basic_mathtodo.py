@@ -2,7 +2,7 @@
 Lets calculate a company's taxes, profit, and then divide the profit amongst shareholders.
 Referenced lesson(s): week_1/4_basic_math.py
 """
-
+# TODO: Section 1:
 # TODO: Set a constant of `TAX_RATE` equal to .20 (we will use this as twenty percent).
 
 # TODO: Receive a user input for the question "What is your company's name?". Set
@@ -25,3 +25,20 @@ Referenced lesson(s): week_1/4_basic_math.py
 
 # ! extra credit: print the remainder of the total profit divided by five using the modulo operator.
 # ! The output should read "The remainder of the profit divided by 5 would be _____"
+
+# TODO: ###########################################################################################
+
+# TODO: Section 2:
+
+num_list = [35, 4, 20, 100, 96]
+
+# TODO: Print the minimum of 'num_list' using min()
+
+# TODO: Print the max of 'num_list' using max()
+
+# TODO: Print the sum of 'num_list' using sum()
+
+num_list2 = [-20, 15, 27, -11]
+
+# TODO: Print the absolute value of the sum of 'num_list2'
+
