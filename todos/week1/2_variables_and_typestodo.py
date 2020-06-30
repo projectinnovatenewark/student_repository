@@ -3,7 +3,7 @@ Task- variables and types
 Reference(s): week_2/2_variables_and_types.py
 """
 
-# Section 1:
+# TODO: Section 1:
 # TODO: Set a variable called name equal to your name, then set a variable of age
 # TODO: equal to your age as an integer. Print a statement with an output of
 # TODO: `My name is _____ and I am ______ years old.` First, try doing this using
@@ -16,7 +16,7 @@ Reference(s): week_2/2_variables_and_types.py
 
 # TODO: #########################################################################################
 
-# Section 2:
+# TODO: Section 2:
 # TODO: Let's use commas to print our desired output instead. Refer to the output
 # TODO: above of `My name is _____ and I am ______ years old.`
 
@@ -29,7 +29,7 @@ Reference(s): week_2/2_variables_and_types.py
 
 # TODO: #########################################################################################
 
-# Section 3:
+# TODO: Section 3:
 # TODO: Set a variable equal to each of the types we have learned so far. That includes
 # TODO: integers, floats, booleans, None, and strings. So, have one variable per each
 # TODO: of those types (i.e. exampleInt = 0, exampleBool = False, etc.).
@@ -44,7 +44,7 @@ Reference(s): week_2/2_variables_and_types.py
 
 # TODO: #########################################################################################
 
-# Section 4:
+# TODO: Section 4:
 # TODO: Lastly, we will introduce type conversion. There are functions you can use to
 # TODO: convert things in Python. The first we will use is str(). Try the first
 # TODO: step instructed of using plus signs to concatenate strings to print
