@@ -3,6 +3,7 @@ Task- variables and types
 Reference(s): week_2/2_variables_and_types.py
 """
 
+# TODO: Section 1:
 # TODO: Set a variable called name equal to your name, then set a variable of age
 # TODO: equal to your age as an integer. Print a statement with an output of
 # TODO: `My name is _____ and I am ______ years old.` First, try doing this using
@@ -13,6 +14,9 @@ Reference(s): week_2/2_variables_and_types.py
 # strings, not strings and integers/floats. Commas, however, simply print
 # separate elements rather than attempting to concatenate strings.
 
+# TODO: #########################################################################################
+
+# TODO: Section 2:
 # TODO: Let's use commas to print our desired output instead. Refer to the output
 # TODO: above of `My name is _____ and I am ______ years old.`
 
@@ -23,6 +27,9 @@ Reference(s): week_2/2_variables_and_types.py
 # Lesson Learned:
 # You can see that adding a float to an integer makes the result a float!
 
+# TODO: #########################################################################################
+
+# TODO: Section 3:
 # TODO: Set a variable equal to each of the types we have learned so far. That includes
 # TODO: integers, floats, booleans, None, and strings. So, have one variable per each
 # TODO: of those types (i.e. exampleInt = 0, exampleBool = False, etc.).
@@ -35,6 +42,9 @@ Reference(s): week_2/2_variables_and_types.py
 # The type() function is an example of a polymorphic function, meaning that the same
 # function name can be used for different types. BIG. WORDS. GET. YOU. JOBS. 💰
 
+# TODO: #########################################################################################
+
+# TODO: Section 4:
 # TODO: Lastly, we will introduce type conversion. There are functions you can use to
 # TODO: convert things in Python. The first we will use is str(). Try the first
 # TODO: step instructed of using plus signs to concatenate strings to print
@@ -42,14 +52,6 @@ Reference(s): week_2/2_variables_and_types.py
 # TODO: However, this time when you're concatenating the age variable, wrap it in the
 # TODO: str() function as such: str(age). The print statement will no longer throw an
 # TODO: error 🎯 since age was converted to a string.
-
-
-# TODO: Section 4:
-# TODO: Try the first step instructed of using plus signs to concatenate strings to print
-# TODO: `My name is _____ and I am ______ years old.` using the name and age variables.
-# TODO: However, this time when you're concatenating the age variable, convert it to a
-# TODO: string. The print statement will no longer throw an error and the concatenation
-# TODO: will work since age was converted to a string.
 
 # Lesson Learned:
 # We can change types in Python when appropriate, and we learned one way to do so with str()
