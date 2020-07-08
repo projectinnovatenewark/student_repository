@@ -4,7 +4,7 @@ Reference lesson(s): week_2/1_lists_and_dicts.py
 """
 # TODO: #########################################################################################
 # Section 1:
-# Identifying index values
+# Identifying index values in a list
 
 GREEK_LETTERS = ["Alpha", "Beta", "Gamma"]
 # TODO: Save the item in the list that is equal to index value '0' as a variable, then print the variable. 
