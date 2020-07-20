@@ -1,10 +1,32 @@
 """
-A problem involving scope
+Problems involving scope
 """
 
-# FIXME: FIX THE BROKEN CODE BELOW. HINT: THE X VARIABLE IS MISSING SOMETHING. 
+# FIXME: Section 1: Fix this function so that it prints the local variable.
 
-def myOpinion():
-  print("The best rapper alive is " + x)
+def iceCream():
+  x = "My favorite flavor is cookie dough."
+  print()
 
-myfunc()
+iceCream(x)
+
+
+# FIXME: Section 2: Fix this function so that it prints the global variable instead of the local variable. 
+
+y = "Pineapple is my favorite fruit." 
+
+def fruit():
+  y = "Mango is my favorite fruit."
+  print(y)
+
+fruit()
+
+
+# FIXME: Section 3: Fix the function so that it prints both variables.
+
+n = "Stranger Things"
+def Netflix():
+  global n
+  print(n)
+  n = "Avatar the Last Airbender"
+Netflix()
