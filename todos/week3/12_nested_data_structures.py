@@ -74,5 +74,4 @@ transactions_data = [
 
 def transactify(transactions):
     """this function should complete the above tasks"""
-
-transactify(transactions_data)
+transactify(transactions_data) 

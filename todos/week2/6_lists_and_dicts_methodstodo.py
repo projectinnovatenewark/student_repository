@@ -3,7 +3,6 @@ Using methods on lists and dictionaries
 """
 
 # Section 1. List Methods
-
 sweet_foods = ["ice cream", "skittles", "broccoli", "strawberries", "oreos", "asparagus"]
 
 # TODO: Remove "broccoli" from the sweet_foods list using .remove()
@@ -19,8 +18,19 @@ sweet_foods = ["ice cream", "skittles", "broccoli", "strawberries", "oreos", "as
 
 # TODO: #########################################################################################
 
-# Section 2. Dictionary Methods.
+# Section 2. Slicing
+values = [1, 2, 3, 4, 5, 6]
 
+# TODO: Segment the items in the list 'values'to include only the odd numers. 
+# TODO: Save this slice as the variable 'odd'. Then, print 'odd'.
+# TODO: (Hint: Use a stepper, which would skip every other number)
+
+# TODO: Now segment the last number in 'odd' and save this additional slice as the variable 'last'. 
+# TODO: Then, print 'last'.
+
+# TODO: #########################################################################################
+
+# Section 3. Dictionary Methods.
 my_car = {"make": "Tesla", "model": "Cybertruck", "year": "2022"}
 
 # TODO: Use the .get() method on the my_car dictionary to search for the `car_type` key. Set it equal to a
@@ -34,8 +44,7 @@ my_car = {"make": "Tesla", "model": "Cybertruck", "year": "2022"}
 
 # TODO: #########################################################################################
 
-# Section 3. Combining list/dict Methods
-
+# Section 4. Combining list/dict Methods
 # TODO: Append a string "make" to the sweet_foods list. Set a variable equal to the last item in the newly
 # TODO: updated list ( i.e. make_item = sweet_foods[4] ). Then, since the new variable will be equal
 # TODO: to a string of "make", you can use that variable to find the value of the key/value pair in the
