@@ -2,6 +2,8 @@
 Practice using nested for loops to iterate through different data structures
 """
 
+# TODO: Section 1:
+
 # Hint! Remember that None is basically setting something as an undefined value. This is helpful when
 # you intend on being specific about the scope of a variable and wanting to populate it later
 # TODO: Create a series of for loops that prints out each day of the week with the 
@@ -20,6 +22,8 @@ ADVANCED_FORECAST = {
 
 
 # TODO: ###########################################################################################
+
+# TODO: Section 2:
 
 transactions_data = [
     {
