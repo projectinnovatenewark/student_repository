@@ -3,7 +3,6 @@ Creating classes for your classmates
 """
 
 # TODO: Section 1:
-
 # TODO: Create a class for an Employee, and include basic data
 # TODO: like hours worked, salary, first name, last name, age, and title.
 
@@ -14,29 +13,28 @@ Creating classes for your classmates
 # TODO: Then, call that function to print out those strings with a class
 # TODO: of Employee set equal to a variable employeeOne.
 
-# TODO: Section 2:
+# TODO:#############################################################################################
 
+# TODO: Section 2:
 # TODO: Set up a child class that derives from the Employee class and add the attribute 'h_benefits'.
 # TODO: Define a function 'intro' to print:
-# TODO: "Hi, my name is Garrett Palmeri. I am 24 year old Financial Analyst that makes $40000 per year.
+# TODO: "Hi, my name is Garrett Palmeri. I am a 24 year old Financial Analyst. I work 35 hours per week and make $40000 per year.
 # TODO: I do not have insurance."
 
-# TODO: Section 3:
+# TODO:#############################################################################################
 
+# TODO: Section 3:
 # TODO: Create a class named 'Animal' with the attributes no_of_legs, weight, height. 
 
 # TODO: Then you will create 2 classes derived from 'Animal' named 'Mammal' and 'Fish'. 
-# TODO: Define the variable 'habit' for 'Mammal' and 'Fish' to = 'Land' and 'Water' respectively,
+# TODO: Define the variable 'habitat' for 'Mammal' and 'Fish' to = 'Land' and 'Water' respectively,
 # TODO: so that it will apply to all Mammals and Fish.
 # TODO: Also give 'Mammal' a new attribute - 'can_fly'. 
 
 # TODO: Then set the class 'Dog' derived from 'Mammal' and 'Shark' derived from 'Fish'.
 # TODO: Give a new attribute to each - 'd_type' and 's_type' respectively.
-
-# TODO: Section 4:
-
 # TODO: Define a function in 'Dog' that prints the statement.
-# TODO: "Golden Retriever: 4 legs, 65 lbs, 47 inches. Habitat: Land"
+# TODO: "Golden Retriever: 4 legs, 65 lbs, 47 inches. Habitat: Land. Can not fly"
 # TODO: Define a function in 'Shark' that prints the statement.
-# TODO: "Great White: 0 legs, 2100 lbs, 144 inches. Habitat: Water"
+# TODO: "Great White: 0 legs, 2100 lbs, 144 inches. Habitat: Water. Can not fly"
 # TODO: Print each statement.
