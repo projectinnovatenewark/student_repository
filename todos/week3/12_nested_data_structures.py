@@ -1,3 +1,30 @@
+"""
+Practice using nested for loops to iterate through different data structures
+"""
+
+# TODO: Section 1:
+
+# Hint! Remember that None is basically setting something as an undefined value. This is helpful when
+# you intend on being specific about the scope of a variable and wanting to populate it later
+# TODO: Create a series of for loops that prints out each day of the week with the 
+# TODO: high and low of each day in this problem, the high and low of 
+# TODO: each period of the day is set in the array in the key value pair
+
+ADVANCED_FORECAST = {
+    "Sunday": [42, 55, 52],
+    "Monday": [40, 50, 51],
+    "Tuesday": [55, 65, 59],
+    "Wednesday": [50, 60, 48],
+    "Thursday": [52, 59, 53],
+    "Friday": [42, 50, 41],
+    "Saturday": [43, 51, 47]
+}
+
+
+# TODO: ###########################################################################################
+
+# TODO: Section 2:
+
 transactions_data = [
     {
         "amount": 2307.21,
@@ -45,7 +72,6 @@ transactions_data = [
 # TODO: print out each transaction in a string indicating:
 # TODO: "You spent $ X at X with your X account"
 
-def transactify(data):
+def transactify(transactions):
     """this function should complete the above tasks"""
-
-transactify(transactions_data)
+transactify(transactions_data) 
