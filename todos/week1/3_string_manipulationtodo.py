@@ -15,9 +15,14 @@ Referenced lesson(s): week_1/2_variables_and_types.py && week_1/3_string_manipul
 
 # TODO: #########################################################################################
 
+
 # TODO: Section 3:
+
 # TODO: Write a program that asks a user 6 unique questions about them. After receiving all of the
-# TODO: inputs, make a series of print statements that reflect the question. For example, if you ask
-# TODO: someone their favorite movie, the output should read "Your favorite movie is _____".
+# TODO: inputs, make a print statement in paragraph style that utilizes the .format function. Be 
+# TODO: sure to take advantage of the .title function in the print statement for names and words
+# TODO: that need to be capitalized! 
+
 
 # TODO: Print out the results in a neat and readable format.
+
