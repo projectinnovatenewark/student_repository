@@ -2,6 +2,7 @@
 Lets calculate a company's taxes, profit, and then divide the profit amongst shareholders.
 Referenced lesson(s): week_1/4_basic_math.py
 """
+
 # TODO: Section 1:
 # TODO: Set a constant of `TAX_RATE` equal to .20 (we will use this as twenty percent).
 
@@ -29,7 +30,6 @@ Referenced lesson(s): week_1/4_basic_math.py
 # TODO: ###########################################################################################
 
 # TODO: Section 2:
-
 num_list = [35, 4, 20, 100, 96]
 
 # TODO: Print the minimum of 'num_list' using min()
@@ -38,7 +38,8 @@ num_list = [35, 4, 20, 100, 96]
 
 # TODO: Print the sum of 'num_list' using sum()
 
+# TODO: Print the absolute value of the sum of 'num_list2'
+
 num_list2 = [-20, 15, 27, -11]
 
-# TODO: Print the absolute value of the sum of 'num_list2'
 
