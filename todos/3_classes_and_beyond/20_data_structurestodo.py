@@ -10,10 +10,7 @@ to define their methods.
 # TODO: ['mess', 'up', 'some', 'commas']. To check if your functions are working correctly,
 # TODO: execute them in the following order: isEmpty(), push('yeah'), pop(), and lastly size().
 
-# Let's put a space between our stack and queue examples.
-print('\n')
-print('Lets transition from the stack to the queue example')
-print('\n')
+# TODO: ###########################################################################################
 
 # TODO: Section 2:
 
