@@ -2,6 +2,7 @@
 Create two classes for stacks and queues and include functions
 to define their methods.
 """
+# TODO: Section 1:
 
 # TODO: Define a class called Stack and incude functions in the class
 # TODO: for push, pop, size (return length of list) and isEmpty which should check if the
@@ -13,6 +14,8 @@ to define their methods.
 print('\n')
 print('Lets transition from the stack to the queue example')
 print('\n')
+
+# TODO: Section 2:
 
 # TODO: Define a class called Queue and incude functions in the class
 # TODO: for queue, enqueue, dequeue, size (return length of list) and isEmpty which 
