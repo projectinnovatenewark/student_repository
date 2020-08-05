@@ -3,7 +3,8 @@ Use compounding interest rates and initial investment to find your return on inv
 and calculate the taxes owed
 """
 
-# TODO: Import the annual_interest and tax_rate constants from the file 'interest.py' in studentrepository/todos/week2
+# Section 1. Imports
+# TODO: Import the annual_interest and tax_rate constants from the file 'interest.py' in studentrepository/todos/week2.
 
 # TODO: Ask a user how much they would like to invest with an input. Set it equal to a variable
 # TODO: named `investment`.
