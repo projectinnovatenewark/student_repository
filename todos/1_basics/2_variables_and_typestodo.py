@@ -4,15 +4,15 @@ Enjoy your first ToDo! This correlates to Lesson 2.
 
 # TODO: Section 1:
 # TODO: Set a variable 'phrase1' euqal to "Hi everyone! " and another variable 'phrase2'
-# TODO: equal to "My name is ____" (complete with your name). Then use what you learned so
-# TODO: far in the lesson to set these varibles to a new variable called 'complete'
+# TODO: equal to "My name is [name here]" (complete with your name). Then use what you learned so
+# TODO: far in the lesson to set these varibles to a new variable called "complete"
 # TODO: and print it.
 
 # TODO: #########################################################################################
 
 # TODO: Section 2:
-# TODO: Set two variable in the same line, 'flt1' and 'flt2', equal to 3.5 and 14.0 respectiviely.
-# TODO: Then use a print statement for each separately to check the output.
+# TODO: Set two variable in the same line, "flt1" and "flt2", equal to 3.5 and 14.0 respectiviely.
+# TODO: Then print each variable separately to check the output.
 
 # TODO: #########################################################################################
 
