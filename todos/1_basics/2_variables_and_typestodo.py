@@ -9,13 +9,13 @@ the lesson to help you thoughout the assignemnt.
 # far in the lesson to set these varibles to a new variable called 'complete'
 # and print it.
 
-# #########################################################################################
+###################################################################################################
 
 # TODO: Section 2:
 # Set two variables in the same line, 'flt1' and 'flt2', equal to 3.5 and 14.029 respectiviely.
 # Then use a print statement for each separately to check the output.
 
-# #########################################################################################
+###################################################################################################
 
 # TODO: Section 3:
 # Set a variable called name equal to your name, then set a variable of age
@@ -33,7 +33,7 @@ the lesson to help you thoughout the assignemnt.
 # Let's use commas to print our desired output instead. Refer to the output
 # above of `My name is _____ and I am ______ years old.`
 
-# #########################################################################################
+###################################################################################################
 
 # TODO: Section 4:
 # Set a variable equal to each of the types we have learned so far. That includes
