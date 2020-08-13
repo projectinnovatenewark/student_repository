@@ -12,7 +12,7 @@ Referenced lesson(s): 2 & 3
 # TODO: Section 2:
 # Set a variable "classic" to equal "thE GREat GatSBy". Then use functions learned in this section
 # to capitalize the first letter of each word, make all characters lowercase, and all characters
-# uppercase. Set each of those variations equal to a variable. Print each variable on a different
+# uppercase. Set each of these variations equal to a variable. Print each variable on a different
 # line.
 
 ####################################################################################################
