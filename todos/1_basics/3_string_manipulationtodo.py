@@ -6,6 +6,7 @@ Referenced lesson(s): 2 & 3
 # TODO: Section 1:
 # Ask a user to input their full name and set it equal to a variable of "full_name".
 # Greet the user by printing the statement "Hello _____, welcome to your personality quiz!"
+# Make sure the comma comes directly after the "full_name" variable.
 
 ####################################################################################################
 
