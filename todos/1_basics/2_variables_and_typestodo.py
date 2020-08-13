@@ -28,6 +28,7 @@ Enjoy your first ToDo! This correlates to Lesson 2.
 # separate elements rather than attempting to concatenate strings. Comment out your
 # above code now to prevent the error from occuring as we move on.
 
+# TODO: Section 3.1:
 # Let's use commas to print our desired output instead. Refer to the output
 # above of `My name is _____ and I am ______ years old.`
 
@@ -45,6 +46,10 @@ Enjoy your first ToDo! This correlates to Lesson 2.
 # Types are important in Python and you can check different elements' types using type().
 # The type() function is an example of a polymorphic function, meaning that the same
 # function name can be used for different types. BIG. WORDS. GET. YOU. JOBS. 💰
+
+####################################################################################################
+
+# TODO: Section 5:
 
 # Lastly, we will introduce type conversion. There are functions you can use to
 # convert things in Python. The first type conversion funciton we will use is str().
