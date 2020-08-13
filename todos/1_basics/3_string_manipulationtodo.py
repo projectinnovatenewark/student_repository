@@ -5,7 +5,7 @@ Referenced lesson(s): 2 & 3
 
 # TODO: Section 1:
 # Ask a user to input their full name and set it equal to a variable of `full_name`.
-# Greet the user by printing the statement "Hello _____. Welcome to your personality quiz!"
+# Greet the user by printing the statement "Hello _____, welcome to your personality quiz!"
 
 ###################################################################################################
 
@@ -17,18 +17,19 @@ Referenced lesson(s): 2 & 3
 ###################################################################################################
 
 # TODO: Section 3:
-# Write a program that asks a user 6 unique questions about them. After receiving all of the
-# inputs, make a print statement in paragraph style that utilizes the .format function. Be 
-# sure to take advantage of the .title function in the print statement for names and words
-# that need to be capitalized! 
+# Write a program that asks a user 6 unique questions about them.
+# They can be anything like your favorite movie or foods. 
 
-# TODO: Section 3.1:
-# Print out the results in a neat and readable format.
+# TODO: Section 3.1: 
+# After receiving all of the inputs, make a series of print statements that reflect the question.
+# For example, if you ask someone their favorite movie, the output should read:
+# "Your favorite movie is _____".
 
 ###################################################################################################
 
 # TODO: Section 4:
 # It looks like the below list was meant to be one long string. Use what you learned in this
-# section to join the items together.
+# section to join the items together. Set this to a new variable called 'phrase' and print it to
+# check your output.
 
 listy = ["This", "shouldn't be", "a list."]
