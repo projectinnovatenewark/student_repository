@@ -45,7 +45,7 @@ Enjoy your first ToDo! This correlates to Lesson 2.
 # Takeaway:
 # Types are important in Python and you can check different elements' types using type().
 # The type() function is an example of a polymorphic function, meaning that the same
-# function name can be used for different types. BIG. WORDS. GET. YOU. JOBS. 💰
+# function name can be used for different types.
 
 ####################################################################################################
 
