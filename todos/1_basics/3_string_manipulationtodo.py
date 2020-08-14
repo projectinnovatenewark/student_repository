@@ -27,9 +27,9 @@ Referenced lesson(s): 2 & 3
 # You should use f shorthand when inserting the variables into the strings. Your output should read
 # like the following:
 
-# "1) Your favorite movie is Avatar."
-# "2) Your favorite food is pasta."
-# "3) Your favorite sport is track."
+# "1. Your favorite movie is Avatar."
+# "2. Your favorite food is pasta."
+# "3. Your favorite sport is track."
 
 ####################################################################################################
 
