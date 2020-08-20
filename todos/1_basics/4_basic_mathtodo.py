@@ -6,7 +6,7 @@ Lets calculate a company's taxes, profit, and then divide the profit amongst sha
 # TIP: Use print statements to test your code along the way.
 
 # Set the following variables and constants:
-# Set a constant of `TAX_RATE` equal to .20 (we will use this as twenty percent).
+# Set a constant of "TAX_RATE" equal to .20 (we will use this as twenty percent).
 
 # Receive a user input for the question "What was your revenue for this year?". Set
 # the input equal to a variable called "revenue".
@@ -15,7 +15,7 @@ Lets calculate a company's taxes, profit, and then divide the profit amongst sha
 # Set a variable equal to "taxes_paid". Calculate the taxes by multipling the rate (20%)
 # from your previous variable by the revenue input from the user.
 
-# Set a new variable called `profit`. Calculate the revenue minus the taxes paid and set it
+# Set a new variable called "profit". Calculate the revenue minus the taxes paid and set it
 # equal to this variable.
 
 # In this lesson we went over changing the value of a variable. In this example, your company
