@@ -1,19 +1,20 @@
 """
 Working with lists and dictionaries to convey a weather forecast
 """
-####################################################################################################
+
 # TODO: Section 1:
 # Identifying index values
 
 GREEK_LETTERS = ["Alpha", "Beta", "Gamma"]
 # Save the item in the list that is equal to index value "0" as a variable, then print the variable. 
-# Print the item in the list that is equal to index value "-1" using [].
+# Print the item in the list that is equal to index value "-1" using [] (bracket notation).
 
 # Add the word "Delta" to the list "GREEK_LETTERS".
 
-# Now print the item in the list that is equal to index value "-1" using [].
+# Now print the item in the list that is equal to index value "-1" using bracket notation.
 
 ####################################################################################################
+
 # TODO: Section 2:
 # Combining concepts of lists and dictionaries
 DAYS_OF_WEEK = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
@@ -29,9 +30,9 @@ TEMPERATURE_FORECAST = {"0": 85, "1": 70, "2": 80, "3": 72, "4": 67, "5": 95, "6
 # statement instead of setting a variable. Your output should read "The temperature on Wednesday
 # will be 72 degrees."
 
+####################################################################################################
 
 # TODO: Section 3:
-
 # Print out the first student of the first class followed by the
 # starting class time.
 classes = [
