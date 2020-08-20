@@ -1,6 +1,5 @@
 """
 Lets calculate a company's taxes, profit, and then divide the profit amongst shareholders.
-Referenced lesson(s): week_1/4_basic_math.py
 """
 
 # TODO: Section 1: (5 min)
