@@ -41,7 +41,7 @@ num_list = [35, 4, 20, 100, 96]
 # "sum_list" respectively. Then print each in their own print statement in the format
 # "The ___ of num_list is ___." using f shorthand.
 
-# TODO: Seciton 2.1:
+# TODO: Section 2.1:
 num_list2 = [-20, 15, -27, -11]
 # Find the sum of num_list2 and store it in the variable "sum2". Then print the sum in the format,
 # "The sum is ___". Then using f shorthand, return the value of the basolute value of "sum2" and
