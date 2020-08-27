@@ -24,5 +24,5 @@ and calculate the taxes owed
 # Calculate the taxes you have to pay by setting a variable of "taxes" equal to
 # the "appreciation" variable times the tax_rate.
 
-# Print to the user the following output using f shorthand: "Your investment of _____ is now worth
-# _____ and you owe _____ in taxes."
+# Print to the user the following output using f shorthand: "Your investment of {investment} is now worth
+# {new_value} and you owe {taxes} in taxes."
