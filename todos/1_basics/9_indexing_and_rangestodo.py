@@ -35,13 +35,15 @@ var = 7
 ##############################################################################################
 
 # TODO: Section 5: 
-# in the following dictionary, keys are associated with days of the week & values represent
-# temps notice how, when in one line, the characters surpass our self-imposed 100 character
-# limit therefore, we can format our dictionary like such to stick to our format!
+# In the following dictionary, keys are associated with days of the week & values represent
+# temperatures.
+
+# TIP: Notice how when in one line, the characters surpass our self-imposed 100 character
+# TIP: limit therefore, we can format our dictionary like such to stick to our format!
 
 # Here is a weather forecast with average temperatures for each day.
-# since our dictionary has a lot of items, let's split it over many lines.
-# Create a for loop that prints out each day of the week with the average temperature
+# Since our dictionary has a lot of items, let's split it over many lines.
+# Create a for loop that prints out each day of the week with its associated temperature.
 
 TEMPERATURE_FORECAST = {
     "Sunday": 65,
