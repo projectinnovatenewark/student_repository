@@ -5,7 +5,7 @@ and calculate the taxes owed
 
 # INSERT IMPORT STATEMENT HERE # FIXME
 
-# TODO: Section 1 (3 min)
+# TODO: Section 1
 # Import the annual_interest and TAX_RATE constants from the file "interest.py" in
 # studentrepository/todos/1_basics
 
@@ -17,7 +17,7 @@ and calculate the taxes owed
 # the investment variable by the annual_interest. Set the appreciation amount
 # equal to a variable named "appreciation".
 
-# TODO: Section 1.1 (3 min)
+# TODO: Section 1.1
 
 # Create a new variable named "new_value" by adding the "appreciation" variable to the
 # "investment" variable.
