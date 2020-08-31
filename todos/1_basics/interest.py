@@ -1,3 +1,3 @@
-ANNUAL_INTEREST = 7.25
+annual_interest = .0725
 TAX_RATE = .20
 
