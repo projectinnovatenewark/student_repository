@@ -4,7 +4,7 @@ Enjoy your first ToDo! This correlates to Lesson 2.
 
 # TODO: Section 1:
 # Set a variable 'phrase1' euqal to "Hi everyone! " and another variable 'phrase2'
-# equal to "My name is [name here]" (complete with your name). Then use what you learned so
+# equal to "My name is [name here]". Then use what you learned so
 # far in the lesson to set these varibles to a new variable called "complete"
 # and print it.
 
@@ -19,7 +19,7 @@ Enjoy your first ToDo! This correlates to Lesson 2.
 # TODO: Section 3:
 # Set a variable called name equal to your name, then set a variable of age
 # equal to your age as an integer. Print a statement with an output of
-# `My name is _____ and I am ______ years old.` First, try doing this using
+# "My name is [name here] and I am [age here] years old." First, try doing this using
 # "+" to combine your variables and the strings, then print the result.
 
 # Takeaway:
@@ -30,7 +30,7 @@ Enjoy your first ToDo! This correlates to Lesson 2.
 
 # TODO: Section 3.1:
 # Let's use commas to print our desired output instead. Refer to the output
-# above of `My name is _____ and I am ______ years old.`
+# above of "My name is [name here] and I am [age here] years old."
 
 ####################################################################################################
 
@@ -54,7 +54,7 @@ Enjoy your first ToDo! This correlates to Lesson 2.
 # Lastly, we will introduce type conversion. There are functions you can use to
 # convert things in Python. The first type conversion funciton we will use is str().
 # Try the statement from Section 3 instructed of using plus signs to concatenate strings to
-# print `My name is _____ and I am ______ years old.` using the name and age variables.
+# print "My name is _____ and I am ______ years old." using the name and age variables.
 # However, this time when you're concatenating the age variable, wrap it in the
 # str() function as such: str(age). The print statement will no longer throw an
 # error 🎯 since age was converted to a string.
