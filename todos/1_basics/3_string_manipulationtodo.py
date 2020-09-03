@@ -1,6 +1,5 @@
 """
 Using string manipulation
-Referenced lesson(s): 2 & 3
 """
 
 # TODO: Section 1:
@@ -19,8 +18,10 @@ Referenced lesson(s): 2 & 3
 ####################################################################################################
 
 # TODO: Section 3:
-# Write a program that asks a user 3 unique questions about them.
+# Write a program that asks a user 2 unique questions about them.
 # The questions can be anything like your favorite movie, food, sport, etc.
+# After writing the inputs, move on to the next section of 3.1
+
 
 # TODO: Section 3.1:
 # After receiving all of the inputs, make a series of print statements that reflect the question.
@@ -29,13 +30,12 @@ Referenced lesson(s): 2 & 3
 
 # "1. Your favorite movie is Avatar."
 # "2. Your favorite food is pasta."
-# "3. Your favorite sport is track."
 
 ####################################################################################################
 
 # TODO: Section 4:
 # It looks like the below list was meant to be one long string. Use what you learned in this
-# section to join the items together. Set this to a new variable called 'phrase' and print it to
-# check your output.
+# section to join the items together and separate each item with a space. Set this to a new variable
+# called "phrase" and print it to check your output.
 
 listy = ["This", "shouldn't be", "a list."]

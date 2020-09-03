@@ -1,5 +1,5 @@
 """
-Enjoy your first ToDo! This correlates to Lesson 2.
+Using variables and types
 """
 
 # TODO: Section 1:
