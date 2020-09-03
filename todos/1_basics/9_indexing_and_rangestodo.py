@@ -10,7 +10,7 @@ Working with for loops in dictionaries and lists
 # TODO: Section 2:
 # Loop through the list above and "curve" each grade by 3 points. Print those
 # curved grades. In that loop, print out the phone name using the .index() function.
-# Ypur print statement should read in the format "Phone [index + 1] is a [phone]." and that should
+# Your print statement should read in the format "Phone [index + 1] is a [phone]." and that should
 # continue through all items in the list.
 phones = ["iPhone", "Galaxy", "Pixel", "Note"]
 
