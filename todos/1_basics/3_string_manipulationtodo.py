@@ -4,7 +4,7 @@ Using string manipulation
 
 # TODO: Section 1:
 # Ask a user to input their full name and set it equal to a variable of "full_name".
-# Greet the user by printing the statement "Hello _____, welcome to your personality quiz!"
+# Greet the user by printing "Hello [full name here], welcome to your personality quiz!"
 # Make sure the comma comes directly after the "full_name" variable.
 
 ####################################################################################################
@@ -13,7 +13,7 @@ Using string manipulation
 # Set a variable "classic" to equal "thE GREat GatSBy". Then use functions learned in this section
 # to capitalize the first letter of each word, make all characters lowercase, and all characters
 # uppercase. Set each of these variations equal to a variable. Print each variable on a different
-# line.
+# line by using "\n".
 
 ####################################################################################################
 
