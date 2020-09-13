@@ -19,18 +19,12 @@ Using variables and types
 # TODO: Section 3:
 # Set a variable called name equal to your name, then set a variable of age
 # equal to your age as an integer. Print a statement with an output of
-# "My name is [name here] and I am [age here] years old." First, try doing this using
-# "+" to combine your variables and the strings, then print the result.
+# "My name is [name here] and I am [age here] years old." using the above
+# variables in your print statement.
 
 # Takeaway:
-# This should throw you a fun error, because concatenation can only be done with
-# strings, not strings and integers/floats. Commas, however, simply print
-# separate elements rather than attempting to concatenate strings. Comment out your
-# above code now to prevent the error from occuring as we move on.
-
-# TODO: Section 3.1:
-# Let's use commas to print our desired output instead. Refer to the output
-# above of "My name is [name here] and I am [age here] years old."
+# Concatenation (+) can only be done with strings, not strings and integers/floats. Commas, however,
+# simply print different elements rather than attempting to concatenate strings.
 
 ####################################################################################################
 
