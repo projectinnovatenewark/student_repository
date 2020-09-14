@@ -46,10 +46,10 @@ Using variables and types
 # TODO: Section 5:
 
 # Lastly, we will introduce type conversion. There are functions you can use to
-# convert things in Python. The first type conversion funciton we will use is str().
-# Try the statement from Section 3 instructed of using plus signs to concatenate strings to
-# print "My name is [name here] and I am [age here] years old." using the name and age variables.
-# However, this time when you're concatenating the age variable, wrap it in the
+# convert things in Python. The first type conversion function we will use is str().
+# Try the problem from Section 3, but use plus signs to concatenate strings and
+# print "My name is [name here] and I am [age here] years old." using the name and age
+# variables. However, this time when you're concatenating the age variable, wrap it in the
 # str() function as such: str(age). The print statement will no longer throw an
 # error 🎯 since age was converted to a string.
 
