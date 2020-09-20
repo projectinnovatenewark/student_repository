@@ -22,7 +22,6 @@ double_this = 3
 # TODO: Section 2.1:
 # Write an if statement that prints "[number here] is even" if the above functions return value
 # is even. Write an additional if statement that prints "[number here] is odd" if it is odd.
-double_this = 3
 
 ####################################################################################################
 
