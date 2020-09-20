@@ -18,9 +18,9 @@ Using string manipulation
 ####################################################################################################
 
 # TODO: Section 3:
-# Write a program that asks a user 2 unique questions about them.
+# Write a program that asks a user 2 unique questions about them using the input function.
 # The questions can be anything like your favorite movie, food, sport, etc.
-# After writing the inputs, move on to the next section of 3.1
+# Once completed, move on to the next section of 3.1
 
 
 # TODO: Section 3.1:
