@@ -12,7 +12,21 @@ double_this = 7
 
 ####################################################################################################
 
-# TODO: Section 4:
+# TODO: Section 2:
+# Copy your "doubled" function from above to this block of code. Change it to use a return value,
+# store that return value in a variable, and print it.
+double_this = 3
+
+####################################################################################################
+
+# TODO: Section 2.1:
+# Write an if statement that prints "[number here] is even" if the above functions return value
+# is even. Write an additional if statement that prints "[number here] is odd" if it is odd.
+double_this = 3
+
+####################################################################################################
+
+# TODO: Section 3:
 # Create a function that takes a dictionary as an argument, loops through the
 # dictionary, then returns the iteration number, key, and value in a readable way.
 # (i.e. "iteration number 1 returns the key firstKey and the value firstValue")
