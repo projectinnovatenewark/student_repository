@@ -1,5 +1,5 @@
 """
-Working with lists and dictionaries to convey a weather forecast
+Working with lists, dictionaries, and nested data
 """
 
 # TODO: Section 1:

@@ -2,7 +2,7 @@
 Lets calculate a company's taxes, profit, and then divide the profit amongst shareholders.
 """
 
-# TODO: Section 1: (5 min)
+# TODO: Section 1:
 # TIP: Use print statements to test your code along the way.
 
 # Set the following variables and constants:
@@ -22,7 +22,7 @@ Lets calculate a company's taxes, profit, and then divide the profit amongst sha
 # is taking a one time charge of 50%. This is done by executing the following:
 # profit = profit / 2 #IMPORTANT: Uncomment this line before moving on.
 
-# TODO: Section 1.1: (5 min)
+# TODO: Section 1.1:
 # Print an output indicating "Company ____ recorded $______  in revenue this year,
 # paid $______ in taxes, recorded a profit of $______, and paid $______ to their five
 # shareholders, evenly". Be sure to format to look like normal dollar amounts - "$xx.xx"
@@ -35,13 +35,13 @@ Lets calculate a company's taxes, profit, and then divide the profit amongst sha
 
 ####################################################################################################
 
-# TODO: Section 2: (5 min)
+# TODO: Section 2:
 num_list = [35, 4, 20, 100, 96]
 # Set the minimum, maximum, and sum of num_list to the variables "min_num", "max_num", and
 # "sum_list" respectively. Then print each in their own print statement in the format
 # "The ___ of num_list is ___." using f shorthand.
 
-# TODO: Section 2.1: (5 min)
+# TODO: Section 2.1:
 num_list2 = [-20, 15, -27, -11]
 # Find the sum of num_list2 and store it in the variable "sum2". Then print the sum in the format,
 # "The sum is ___". Then using f shorthand, return the value of the absolute value of "sum2" and

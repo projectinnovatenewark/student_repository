@@ -1,5 +1,5 @@
 """
-Enjoy your first ToDo! This correlates to Lesson 2.
+Using variables and types
 """
 
 # TODO: Section 1:
@@ -19,18 +19,12 @@ Enjoy your first ToDo! This correlates to Lesson 2.
 # TODO: Section 3:
 # Set a variable called name equal to your name, then set a variable of age
 # equal to your age as an integer. Print a statement with an output of
-# "My name is [name here] and I am [age here] years old." First, try doing this using
-# "+" to combine your variables and the strings, then print the result.
+# "My name is [name here] and I am [age here] years old." using the above
+# variables in your print statement.
 
 # Takeaway:
-# This should throw you a fun error, because concatenation can only be done with
-# strings, not strings and integers/floats. Commas, however, simply print
-# separate elements rather than attempting to concatenate strings. Comment out your
-# above code now to prevent the error from occuring as we move on.
-
-# TODO: Section 3.1:
-# Let's use commas to print our desired output instead. Refer to the output
-# above of "My name is [name here] and I am [age here] years old."
+# Concatenation (+) can only be done with strings, not strings and integers/floats. Commas, however,
+# simply print different elements rather than attempting to concatenate strings.
 
 ####################################################################################################
 
@@ -52,10 +46,10 @@ Enjoy your first ToDo! This correlates to Lesson 2.
 # TODO: Section 5:
 
 # Lastly, we will introduce type conversion. There are functions you can use to
-# convert things in Python. The first type conversion funciton we will use is str().
-# Try the statement from Section 3 instructed of using plus signs to concatenate strings to
-# print "My name is [name here] and I am [age here] years old." using the name and age variables.
-# However, this time when you're concatenating the age variable, wrap it in the
+# convert things in Python. The first type conversion function we will use is str().
+# Try the problem from Section 3, but use plus signs to concatenate strings and
+# print "My name is [name here] and I am [age here] years old." using the name and age
+# variables. However, this time when you're concatenating the age variable, wrap it in the
 # str() function as such: str(age). The print statement will no longer throw an
 # error 🎯 since age was converted to a string.
 
