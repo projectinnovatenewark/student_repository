@@ -14,22 +14,25 @@ double_this = 7
 ####################################################################################################
 
 # TODO: Section 2:
-# Copy your "double" function from above to this block of code. Change it to use a return value,
-# store that return value in a variable, and print it.
+# Copy your "double" function from above to this block of code.
+# TIP: Comment out the previous definition of your "double" function before implementing this todo,
+# TIP: as it is bad practice to have two function definitions with the same name.
+
+# Change it to use a return value, store that return value in a variable, and print it.
 double_this = 3
 
 ####################################################################################################
 
 # TODO: Section 2.1:
 # Write an if statement that prints "[number here] is even" if the above functions return value
-# is even. Write an additional if statement that prints "[number here] is odd" if it is odd.
+# is even. Write an additional condition that prints "[number here] is odd" if it is odd.
 
 ####################################################################################################
 
 # TODO: Section 3:
 # Create a function that takes a dictionary as an argument, loops through the
-# dictionary, then returns the iteration number, key, and value in a readable way.
-# (i.e. "iteration number 1 returns the key firstKey and the value firstValue")
+# dictionary, then prints the key and value in a readable way.
+# (i.e. "the key is firstKey and the value is firstValue")
 
 # Here is an example dictionary:
 EXAMPLE_DICTIONARY = {"key1": "value1", "key2": "value2", "key3": "value3", "key4": "value4"}
