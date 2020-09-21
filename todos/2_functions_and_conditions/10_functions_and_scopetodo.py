@@ -3,8 +3,9 @@ Working with functions and scope
 """
 
 # TODO: Section 1:
-# Define a function called "double" that sets a parameter of x. It should double x and
-# print that value. Call the function and pass it the below variable as an argument.
+# Define a function called "double" that sets a parameter of x. The function should double x and
+# print that value inside the function. Call the function and pass it the below variable as
+# an argument.
 double_this = 7
 
 # After completing the above, define a function called "printer", that sets no parameter.
@@ -13,7 +14,7 @@ double_this = 7
 ####################################################################################################
 
 # TODO: Section 2:
-# Copy your "doubled" function from above to this block of code. Change it to use a return value,
+# Copy your "double" function from above to this block of code. Change it to use a return value,
 # store that return value in a variable, and print it.
 double_this = 3
 
