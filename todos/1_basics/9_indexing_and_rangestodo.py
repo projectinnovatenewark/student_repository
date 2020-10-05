@@ -5,36 +5,19 @@ Working with for loops in dictionaries and lists
 # TODO: Section 1:
 # Print numbers 5 through 10. Print each number using a basic for loop.
 
-##############################################################################################
+####################################################################################################
 
 # TODO: Section 2:
-# Loop through the list above and "curve" each grade by 3 points. Print those
+# Loop through the list below and "curve" each grade by 3 points. Print those
 # curved grades. In that loop, print out the student's number using the .index() function.
 # Your first iteration should read in the format "Student 1 got a 63." and that should
 # continue through all items in the list.
 
 grades = [60, 73, 80, 87]
 
-##############################################################################################
+####################################################################################################
 
-# TODO: Section 3:
-# Write a while loop and iterate through the list of todos. Use the "pop" method so that,
-# for each iteration, you can print the todo that you are removing from the todolist.
-
-todos = ["exercise for fun", "eat food", "go to school", "write some code"]
-removed_todo = []
-
-##############################################################################################
-
-# TODO: Section 4:
-# Decrement var by 1 using a while loop. Print the number each time
-# it is decremented. Once the number reaches two, end the while loop.
-
-var = 7
-
-##############################################################################################
-
-# TODO: Section 5: 
+# TODO: Section 3: 
 # In the following dictionary, keys are associated with days of the week & values represent
 # temperatures.
 
