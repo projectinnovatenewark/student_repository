@@ -35,15 +35,6 @@ num_feet = 4
 
 # TODO: E-4
 
-# To begin this section, import "pi" *from* the "math" package in FIXME: #1.
-
-# Write a python program to find the area of a circle with a radius (r) of 2 and store it in a
-# variable called "area". The equation for such is: πr². Print "The area of a circle with a radius
-# of [r] is equal to [area]."
-r = 2
-
-# TODO: E-5
-
 # The print statement below will throw you an error. Revise and uncomment the print statement so you
 # can run it without receiving an error. #HINT: Errors in Python are generally descriptive!
 
