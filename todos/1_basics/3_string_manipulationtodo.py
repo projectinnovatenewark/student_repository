@@ -1,41 +1,32 @@
 """
 Using string manipulation
 """
+# TITLE:  Section 1 - The "input()" Function
 
-# TODO: Section 1:
-# Ask a user to input their full name and set it equal to a variable of "full_name".
-# Greet the user by printing "Hello [full name here], welcome to your personality quiz!"
-# Make sure the comma comes directly after the "full_name" variable.
+# TODO: Section 1.1:
+# Ask a user to input their full name and set it equal to a variable called "full_name". Greet the
+# user by printing "Hello [full_name], welcome to your personality quiz!" Make sure the comma comes
+# directly after the "full_name" variable.
 
 ####################################################################################################
+
+# TITLE: Section 2 - Modifying the Casing of Strings
 
 # TODO: Section 2:
-# Set a variable "classic" to equal "thE GREat GatSBy". Then use functions learned in this section
-# to capitalize the first letter of each word, make all characters lowercase, and all characters
-# uppercase. Set each of these variations equal to a variable. Print each variable on a different
-# line by using "\n".
+# Manipulate the variable "classic" using the 3 functions learned in this lesson and store each in
+# new variables called "classic_title", "classic_upper", "classic_lower". Then print each of the new
+# variables on a different line by using "\n".
+# HINT: You should only have one print statement.
+
+classic = "thE GREat GatSBy"
 
 ####################################################################################################
 
-# TODO: Section 3:
-# Write a program that asks a user 2 unique questions about them using the input function.
-# The questions can be anything like your favorite movie, food, sport, etc.
-# Once completed, move on to the next section of 3.1
-
-
-# TODO: Section 3.1:
-# After receiving all of the inputs, make a series of print statements that reflect the question.
-# You should use f shorthand when inserting the variables into the strings. Your output should read
-# like the following:
-
-# "1. Your favorite movie is Avatar."
-# "2. Your favorite food is pasta."
-
-####################################################################################################
+# TITLE: Section 4 - String-related Functions
 
 # TODO: Section 4:
-# It looks like the below list was meant to be one long string. Use what you learned in this
-# section to join the items together and separate each item with a space. Set this to a new variable
-# called "phrase" and print it to check your output.
+# It looks like the below list was meant to be one long string. Use what you learned in this section
+#  to join the items together and separate each item with a space. Set this to a new variable called
+# "phrase" and print it to check your output.
 
 listy = ["This", "shouldn't be", "a list."]
